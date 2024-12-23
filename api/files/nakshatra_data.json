@@ -1,0 +1,165 @@
+{
+    "Ashwini": {
+      "description": "Dynamic and spontaneous. Focus on beginnings.",
+      "lucky_number": 3,
+      "lucky_color": "Yellow",
+      "advice": "Take bold steps forward!"
+    },
+    "Bharani": {
+      "description": "Determined and strong-willed. Be cautious of overcommitment.",
+      "lucky_number": 9,
+      "lucky_color": "Orange",
+      "advice": "Balance your energy for effective outcomes."
+    },
+    "Krittika": {
+      "description": "Sharp and fiery. A day to focus on cutting through challenges.",
+      "lucky_number": 1,
+      "lucky_color": "Red",
+      "advice": "Use your energy wisely."
+    },
+    "Rohini": {
+      "description": "Creative and nurturing. Enjoy the comforts of life.",
+      "lucky_number": 6,
+      "lucky_color": "Pink",
+      "advice": "Focus on building relationships."
+    },
+    "Mrigashira": {
+      "description": "Curious and exploratory. A great day for learning.",
+      "lucky_number": 5,
+      "lucky_color": "Green",
+      "advice": "Stay curious and keep exploring."
+    },
+    "Ardra": {
+      "description": "Dynamic and intense. Embrace the changes in your life.",
+      "lucky_number": 7,
+      "lucky_color": "Blue",
+      "advice": "Channel your energy productively."
+    },
+    "Punarvasu": {
+      "description": "Optimistic and nurturing. Look forward to new opportunities.",
+      "lucky_number": 4,
+      "lucky_color": "White",
+      "advice": "Be open to second chances."
+    },
+    "Pushya": {
+      "description": "Supportive and reliable. Focus on building a strong foundation.",
+      "lucky_number": 8,
+      "lucky_color": "Yellow",
+      "advice": "Offer help to those in need."
+    },
+    "Ashlesha": {
+      "description": "Intelligent and resourceful. A good day for problem-solving.",
+      "lucky_number": 2,
+      "lucky_color": "Purple",
+      "advice": "Trust your instincts and intuition."
+    },
+    "Magha": {
+      "description": "Proud and regal. A day to embrace leadership roles.",
+      "lucky_number": 10,
+      "lucky_color": "Gold",
+      "advice": "Take charge with confidence."
+    },
+    "Purva Phalguni": {
+      "description": "Playful and indulgent. A day for relaxation and joy.",
+      "lucky_number": 6,
+      "lucky_color": "Peach",
+      "advice": "Spend time with loved ones."
+    },
+    "Uttara Phalguni": {
+      "description": "Generous and organized. A great day to plan ahead.",
+      "lucky_number": 9,
+      "lucky_color": "Maroon",
+      "advice": "Help others while managing your priorities."
+    },
+    "Hasta": {
+      "description": "Skillful and clever. A day to complete tasks efficiently.",
+      "lucky_number": 1,
+      "lucky_color": "Silver",
+      "advice": "Use your talents to solve challenges."
+    },
+    "Chitra": {
+      "description": "Creative and vibrant. A good day to showcase your talents.",
+      "lucky_number": 7,
+      "lucky_color": "Red",
+      "advice": "Let your creativity shine."
+    },
+    "Swati": {
+      "description": "Independent and adaptable. A great day for new ventures.",
+      "lucky_number": 5,
+      "lucky_color": "Blue",
+      "advice": "Trust your ability to adapt."
+    },
+    "Vishakha": {
+      "description": "Ambitious and determined. A day to push towards your goals.",
+      "lucky_number": 8,
+      "lucky_color": "Green",
+      "advice": "Stay focused and determined."
+    },
+    "Anuradha": {
+      "description": "Supportive and disciplined. Focus on teamwork.",
+      "lucky_number": 4,
+      "lucky_color": "Black",
+      "advice": "Collaborate with others for success."
+    },
+    "Jyeshtha": {
+      "description": "Powerful and protective. A day to assert your boundaries.",
+      "lucky_number": 3,
+      "lucky_color": "Purple",
+      "advice": "Stand firm and be assertive."
+    },
+    "Mula": {
+      "description": "Deep and transformative. Embrace the changes within.",
+      "lucky_number": 6,
+      "lucky_color": "Brown",
+      "advice": "Let go of what no longer serves you."
+    },
+    "Purva Ashadha": {
+      "description": "Optimistic and forward-looking. A great day for planning.",
+      "lucky_number": 2,
+      "lucky_color": "Pink",
+      "advice": "Set clear goals for the future."
+    },
+    "Uttara Ashadha": {
+      "description": "Determined and focused. A good day for hard work.",
+      "lucky_number": 9,
+      "lucky_color": "Orange",
+      "advice": "Persevere and you will succeed."
+    },
+    "Shravana": {
+      "description": "Wise and thoughtful. Focus on gaining knowledge.",
+      "lucky_number": 7,
+      "lucky_color": "White",
+      "advice": "Take time to learn and reflect."
+    },
+    "Dhanishta": {
+      "description": "Energetic and ambitious. A great day for achieving goals.",
+      "lucky_number": 5,
+      "lucky_color": "Red",
+      "advice": "Act with confidence and energy."
+    },
+    "Shatabhisha": {
+      "description": "Mysterious and introspective. A day to focus inward.",
+      "lucky_number": 10,
+      "lucky_color": "Blue",
+      "advice": "Take time for self-reflection."
+    },
+    "Purva Bhadrapada": {
+      "description": "Visionary and thoughtful. A great day to plan long-term.",
+      "lucky_number": 8,
+      "lucky_color": "Silver",
+      "advice": "Think big and set ambitious goals."
+    },
+    "Uttara Bhadrapada": {
+      "description": "Compassionate and steady. Focus on emotional balance.",
+      "lucky_number": 4,
+      "lucky_color": "Green",
+      "advice": "Be patient and empathetic."
+    },
+    "Revati": {
+      "description": "Gentle and nurturing. A day to care for others.",
+      "lucky_number": 3,
+      "lucky_color": "White",
+      "advice": "Offer kindness and support to those in need."
+    }
+  }
+  

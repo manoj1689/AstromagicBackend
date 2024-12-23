@@ -1,0 +1,1156 @@
+{
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "When will I get married?",
+      "description": "Based on my birth chart, when can I expect marriage? Are there any astrological remedies to hasten the process?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "marriage",
+        "relationships",
+        "remedies",
+        "astrology"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "When is the most favorable time for me to get married?",
+        "Are there any obstacles in my marriage as per my stars?"
+      ],
+      "astrological_focus": "Planetary Transits",
+      "output_format": "Detailed response with timeline and remedies",
+      "additional_notes": "Includes favorable planetary periods for marriage and remedies like wearing gemstones or performing rituals."
+    },
+    {
+      "id": 2,
+      "title": "My breakup's real cause",
+      "description": "Can astrology explain the reasons behind my recent breakup and suggest ways to heal or move forward?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "breakup",
+        "healing",
+        "relationships",
+        "closure"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "What caused my breakup astrologically?",
+        "Is there a chance for reconciliation with my ex?"
+      ],
+      "astrological_focus": "Compatibility Analysis",
+      "output_format": "Brief explanation with healing suggestions",
+      "additional_notes": "Focuses on planetary positions affecting relationship and suggests healing through spiritual practices."
+    },
+    {
+      "id": 3,
+      "title": "Not getting a job",
+      "description": "What planetary positions might be causing delays in my job search? How can I overcome these obstacles?",
+      "category": "Career",
+      "keywords": [
+        "job",
+        "career",
+        "delays",
+        "employment"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "When will I get a job?",
+        "What astrological remedies can help me secure a job?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Detailed analysis of planetary positions with remedies",
+      "additional_notes": "Includes specific planetary transitions affecting career and suggests rituals or mantras for job opportunities."
+    },
+    {
+      "id": 4,
+      "title": "What business should I start?",
+      "description": "What kind of business aligns with my astrological strengths and has the best chance of success?",
+      "category": "Career",
+      "keywords": [
+        "business",
+        "success",
+        "career advice",
+        "entrepreneurship"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "What kind of business is best suited for my skills?",
+        "Does astrology indicate success in entrepreneurship for me?"
+      ],
+      "astrological_focus": "Planetary Strengths",
+      "output_format": "Detailed suggestions with planetary analysis",
+      "additional_notes": "Provides insights on suitable industries based on planetary positions and strengths."
+    },
+    {
+      "id": 5,
+      "title": "Is this partner right for me?",
+      "description": "Do my partner's and my astrological charts show long-term compatibility? What challenges might we face together?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "compatibility",
+        "partner analysis",
+        "relationships",
+        "long-term"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-6 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Are we astrologically compatible?",
+        "What challenges might our relationship face according to astrology?"
+      ],
+      "astrological_focus": "Compatibility Analysis",
+      "output_format": "Compatibility score with suggestions for harmony",
+      "additional_notes": "Analyzes both partners' charts to determine compatibility and potential challenges."
+    },
+    {
+      "id": 6,
+      "title": "When will I meet my beloved?",
+      "description": "What does my astrological chart say about the timing and nature of meeting my soulmate?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "soulmate",
+        "relationships",
+        "timing",
+        "destiny"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "When will I meet my soulmate?",
+        "How will my future partner be described astrologically?"
+      ],
+      "astrological_focus": "Planetary Transits",
+      "output_format": "Timeline and general description",
+      "additional_notes": "Provides predictions based on transit analysis and birth chart."
+    },
+    {
+      "id": 7,
+      "title": "Why am I facing these health issues?",
+      "description": "What does my horoscope say about my recurring health problems, and how can I overcome them?",
+      "category": "Health & Wellness",
+      "keywords": [
+        "health",
+        "problems",
+        "astrological remedies",
+        "wellness"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "4-6 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Why do I keep facing health problems?",
+        "What remedies can help me improve my health?"
+      ],
+      "astrological_focus": "Planetary Doshas",
+      "output_format": "Detailed health insights with remedies",
+      "additional_notes": "Includes analysis of planets like Saturn and Mars for health issues and suggests remedies such as fasting or wearing gemstones."
+    },
+    {
+      "id": 8,
+      "title": "Are my stars aligned correctly?",
+      "description": "Are my planets and stars currently in a favorable position, or is this a difficult phase? What can I do to improve things?",
+      "category": "General Guidance",
+      "keywords": [
+        "stars",
+        "alignment",
+        "general advice",
+        "life phase"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "Are my stars aligned in my favor?",
+        "What astrological remedies can improve my current situation?"
+      ],
+      "astrological_focus": "Transit Analysis",
+      "output_format": "Brief alignment insights with remedies",
+      "additional_notes": "Analyzes current transits and suggests minor remedies for better alignment."
+    },
+    {
+      "id": 9,
+      "title": "Will this investment be an asset or burden?",
+      "description": "Should I proceed with this investment based on astrological indications? Will it yield positive results?",
+      "category": "Finance",
+      "keywords": [
+        "investment",
+        "finance",
+        "wealth management"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "Is this the right time to invest in real estate?",
+        "Will this investment give me good returns in the long term?"
+      ],
+      "astrological_focus": "Planetary Transits",
+      "output_format": "Risk assessment and predictions",
+      "additional_notes": "Focuses on planetary positions like Jupiter for wealth and Saturn for long-term stability."
+    },
+    {
+      "id": 10,
+      "title": "How can I get through this exam?",
+      "description": "What astrological advice can help me perform better in my upcoming exam?",
+      "category": "Education",
+      "keywords": [
+        "exam",
+        "education",
+        "study tips"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "What astrological remedies can boost my exam preparation?",
+        "Are there specific times I should avoid studying?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Study schedule and remedies",
+      "additional_notes": "Includes tips like ideal study times based on planetary positions and mantras for focus."
+    },
+    {
+      "id": 11,
+      "title": "Should I start this now or delay it?",
+      "description": "Is this the right time to start my new project, or should I wait for a more favorable period?",
+      "category": "Career",
+      "keywords": [
+        "timing",
+        "projects",
+        "astrological advice"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "When is the best time to launch my startup?",
+        "Should I delay signing this deal?"
+      ],
+      "astrological_focus": "Transit Analysis",
+      "output_format": "Time frame recommendations",
+      "additional_notes": "Focuses on favorable planetary alignments like Mercury for communication and Mars for action."
+    },
+    {
+      "id": 12,
+      "title": "Why are there issues in my pregnancy?",
+      "description": "Are planetary influences causing difficulties in my pregnancy? What remedies might help ensure a safe journey?",
+      "category": "Health & Wellness",
+      "keywords": [
+        "pregnancy",
+        "health",
+        "astrological remedies"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Are there astrological remedies for a smooth pregnancy?",
+        "What planetary positions affect pregnancy outcomes?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Detailed remedies and advice",
+      "additional_notes": "Focuses on moon and Venus positions for emotional well-being and physical health during pregnancy."
+    },
+    {
+      "id": 13,
+      "title": "What can I do to grow my business?",
+      "description": "What strategies, based on my astrological chart, can help expand my business successfully?",
+      "category": "Career",
+      "keywords": [
+        "business growth",
+        "career advice",
+        "success"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "What steps should I take to improve my business performance?",
+        "Are there any astrological remedies to attract more clients?"
+      ],
+      "astrological_focus": "Planetary Strengths",
+      "output_format": "Business strategies and remedies",
+      "additional_notes": "Analyzes Jupiter for expansion and Mercury for communication strategies."
+    },
+    {
+      "id": 14,
+      "title": "Why does happiness always seem far from me?",
+      "description": "What astrological factors are hindering my happiness, and how can I invite positivity into my life?",
+      "category": "General Guidance",
+      "keywords": [
+        "happiness",
+        "positivity",
+        "astrology remedies"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "Why do I feel unhappy despite everything?",
+        "What astrological remedies can improve my mood?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Happiness analysis with remedies",
+      "additional_notes": "Focuses on moon phases and Venus placements for emotional well-being."
+    },
+    {
+      "id": 15,
+      "title": "What should I do to get rich in less time?",
+      "description": "Are there astrological insights or remedies that can accelerate my financial growth?",
+      "category": "Finance",
+      "keywords": [
+        "wealth",
+        "riches",
+        "financial success"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Are there astrological tips for quick wealth generation?",
+        "Which career path will make me wealthy faster?"
+      ],
+      "astrological_focus": "Planetary Strengths",
+      "output_format": "Financial growth strategies",
+      "additional_notes": "Includes analysis of Jupiter and Saturn for wealth accumulation and long-term stability."
+    },
+    {
+      "id": 16,
+      "title": "How can I gain an edge over my competitors?",
+      "description": "What astrological strengths can I leverage to stay ahead of my competitors in business?",
+      "category": "Career",
+      "keywords": [
+        "competition",
+        "business",
+        "career strategies"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "How can I outperform my competitors?",
+        "What planetary strengths should I use to boost my business?"
+      ],
+      "astrological_focus": "Planetary Transits",
+      "output_format": "Competitive strategies with remedies",
+      "additional_notes": "Analyzes Mars for action and Rahu for innovative strategies."
+    },
+    {
+      "id": 17,
+      "title": "What steps will make things better around me?",
+      "description": "What can I do to improve the overall energy and harmony in my surroundings based on astrological advice?",
+      "category": "General Guidance",
+      "keywords": [
+        "harmony",
+        "positivity",
+        "surroundings"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "Why does my home feel negative?",
+        "What remedies can improve the energy around me?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Environmental tips and remedies",
+      "additional_notes": "Focuses on planetary placements affecting home and surroundings."
+    },
+    {
+      "id": 18,
+      "title": "Will my next venture be successful?",
+      "description": "Does my horoscope indicate success for the new venture I’m planning?",
+      "category": "Career",
+      "keywords": [
+        "venture",
+        "success",
+        "astrological guidance"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "Will my new business venture succeed?",
+        "Is this the right time to launch my venture?"
+      ],
+      "astrological_focus": "Transit Analysis",
+      "output_format": "Success probabilities and timeline",
+      "additional_notes": "Analyzes favorable planetary transitions like Jupiter for growth and Saturn for long-term results."
+    },
+    {
+      "id": 19,
+      "title": "What does my zodiac sign say about my health?",
+      "description": "Can astrology provide insights into my health based on my zodiac sign?",
+      "category": "Health & Wellness",
+      "keywords": [
+        "health",
+        "zodiac sign",
+        "wellness"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-3 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "What health issues are common for my zodiac sign?",
+        "What remedies suit my zodiac sign for better health?"
+      ],
+      "astrological_focus": "Zodiac Characteristics",
+      "output_format": "Zodiac-based health analysis",
+      "additional_notes": "Focuses on physical and emotional health traits for the user's zodiac sign."
+    },
+    {
+      "id": 20,
+      "title": "How can I find balance in my life?",
+      "description": "What does astrology suggest to create harmony between my personal and professional life?",
+      "category": "General Guidance",
+      "keywords": [
+        "balance",
+        "life harmony",
+        "astrology"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "How can I balance work and personal life?",
+        "Are there planetary remedies for maintaining harmony?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Harmony tips with remedies",
+      "additional_notes": "Analyzes planetary conflicts between professional and personal houses in the chart."
+    },
+    {
+      "id": 21,
+      "title": "Should I pursue higher education?",
+      "description": "What do my stars say about pursuing further studies?",
+      "category": "Education",
+      "keywords": [
+        "higher education",
+        "studies",
+        "academic success"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Is it the right time to go for higher studies?",
+        "Will I be successful if I pursue this academic path?"
+      ],
+      "astrological_focus": "Planetary Transits",
+      "output_format": "Education-related advice and timelines",
+      "additional_notes": "Focuses on planets like Mercury for intelligence and Jupiter for higher education success."
+    },
+    {
+      "id": 22,
+      "title": "When is the best time for me to start a family?",
+      "description": "What does astrology recommend about the timing for starting a family?",
+      "category": "Family Planning",
+      "keywords": [
+        "family",
+        "pregnancy",
+        "astrological timing"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-6 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "When should I plan for a family?",
+        "Are there favorable planetary periods for starting a family?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Timelines and astrological suggestions",
+      "additional_notes": "Includes favorable planetary phases for family planning, focusing on Moon and Venus."
+    },
+    {
+      "id": 23,
+      "title": "What role does karma play in my life?",
+      "description": "How does my birth chart reflect the influence of karma on my current life?",
+      "category": "Spiritual Guidance",
+      "keywords": [
+        "karma",
+        "spirituality",
+        "life purpose"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "How does karma influence my current challenges?",
+        "What does my birth chart reveal about my past life karma?"
+      ],
+      "astrological_focus": "Karmic Analysis",
+      "output_format": "Karma-related insights",
+      "additional_notes": "Focuses on the 12th house and Saturn’s influence in the birth chart."
+    },
+    {
+      "id": 24,
+      "title": "Why do I feel disconnected from my purpose?",
+      "description": "What astrological factors might explain my lack of direction, and how can I reconnect with my purpose?",
+      "category": "General Guidance",
+      "keywords": [
+        "life purpose",
+        "direction",
+        "astrology"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Why do I feel lost in life?",
+        "What can I do to rediscover my purpose?"
+      ],
+      "astrological_focus": "Birth Chart Analysis",
+      "output_format": "Purpose-driven insights with remedies",
+      "additional_notes": "Focuses on the 9th house and Jupiter's positioning for purpose and higher learning."
+    },
+    {
+      "id": 25,
+      "title": "How can I make my relationship stronger?",
+      "description": "Are there any astrological remedies or guidance for improving my relationship with my loved one?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "relationship",
+        "harmony",
+        "love advice"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "How can I strengthen my bond with my partner?",
+        "Are there astrological remedies for resolving conflicts?"
+      ],
+      "astrological_focus": "Compatibility Analysis",
+      "output_format": "Harmony tips with remedies",
+      "additional_notes": "Provides tips to improve communication and emotional connection, focusing on Venus."
+    },
+    {
+      "id": 26,
+      "title": "Will I be successful in love?",
+      "description": "What does my horoscope say about my chances of finding and sustaining a loving relationship?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "love",
+        "relationship success",
+        "compatibility"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Will I find a lasting and fulfilling relationship?",
+        "What challenges might I face in love, and how can I overcome them?"
+      ],
+      "astrological_focus": "Compatibility and Venus Position",
+      "output_format": "Success probability and remedies",
+      "additional_notes": "Focuses on Venus and Moon for emotional stability and relationship harmony."
+    },
+    {
+      "id": 27,
+      "title": "When is the best time to buy property?",
+      "description": "What are the most auspicious periods for me to invest in real estate?",
+      "category": "Finance",
+      "keywords": [
+        "property",
+        "investment",
+        "real estate"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-6 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "When should I buy a house according to astrology?",
+        "What planetary positions favor property investments?"
+      ],
+      "astrological_focus": "4th House and Jupiter Analysis",
+      "output_format": "Timelines with property-specific advice",
+      "additional_notes": "Includes guidance based on Jupiter and Saturn positions influencing stability and wealth."
+    },
+    {
+      "id": 28,
+      "title": "Which zodiac signs should I avoid working with?",
+      "description": "Are there any zodiac signs I might find challenging to collaborate with professionally?",
+      "category": "Career",
+      "keywords": [
+        "zodiac compatibility",
+        "teamwork",
+        "professional advice"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "Which zodiac signs are most compatible with mine for teamwork?",
+        "Are there specific signs I should be cautious about in professional partnerships?"
+      ],
+      "astrological_focus": "Zodiac Compatibility",
+      "output_format": "List of compatible/incompatible signs",
+      "additional_notes": "Focuses on Sun and Moon signs influencing collaboration and conflict resolution."
+    },
+    {
+      "id": 29,
+      "title": "Why do I keep facing failures?",
+      "description": "What astrological patterns or planetary positions are causing repeated failures, and how can I overcome them?",
+      "category": "General Guidance",
+      "keywords": [
+        "failures",
+        "obstacles",
+        "astrological remedies"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Why do I face repeated setbacks?",
+        "What remedies can help me overcome my challenges?"
+      ],
+      "astrological_focus": "Saturn and Rahu Analysis",
+      "output_format": "Failure analysis with remedies",
+      "additional_notes": "Focuses on planetary conflicts and suggests mantras, gemstones, or fasting as remedies."
+    },
+    {
+      "id": 30,
+      "title": "How can I improve my relationship with my parents?",
+      "description": "What astrological remedies or insights can strengthen my bond with my parents?",
+      "category": "Family & Relationships",
+      "keywords": [
+        "family",
+        "parent-child bond",
+        "relationships"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "How can astrology help me build a better relationship with my parents?",
+        "Are there planetary influences affecting our bond?"
+      ],
+      "astrological_focus": "Moon and 4th House Analysis",
+      "output_format": "Relationship tips and remedies",
+      "additional_notes": "Analyzes Moon's emotional influence and the 4th house for family dynamics."
+    },
+    {
+      "id": 31,
+      "title": "Will I succeed if I move abroad?",
+      "description": "Is moving to another country favorable for my career and overall happiness?",
+      "category": "Career & Travel",
+      "keywords": [
+        "relocation",
+        "abroad success",
+        "career"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Will I find success in my career if I move abroad?",
+        "What planetary influences favor relocation?"
+      ],
+      "astrological_focus": "12th House and Saturn Analysis",
+      "output_format": "Relocation success predictions",
+      "additional_notes": "Focuses on the 12th house (foreign lands) and planetary transitions for opportunities."
+    },
+    {
+      "id": 32,
+      "title": "What are my hidden talents according to my stars?",
+      "description": "What unique talents or skills does my astrological chart indicate?",
+      "category": "Personal Growth",
+      "keywords": [
+        "hidden talents",
+        "skills",
+        "self-discovery"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "What are my innate abilities according to astrology?",
+        "Are there hidden strengths I should focus on?"
+      ],
+      "astrological_focus": "5th House and Rahu Analysis",
+      "output_format": "List of talents and strengths",
+      "additional_notes": "Identifies creative and intellectual skills based on planetary placements."
+    },
+    {
+      "id": 33,
+      "title": "Should I invest in cryptocurrency?",
+      "description": "What do my stars suggest about the timing and risks of investing in cryptocurrencies?",
+      "category": "Finance",
+      "keywords": [
+        "cryptocurrency",
+        "investment",
+        "financial advice"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "4-6 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "Is this the right time to invest in crypto?",
+        "What astrological insights can help me manage risks in cryptocurrency investments?"
+      ],
+      "astrological_focus": "Mercury and Rahu Analysis",
+      "output_format": "Risk assessment and investment advice",
+      "additional_notes": "Analyzes Mercury for financial acumen and Rahu for speculative ventures."
+    },
+    {
+      "id": 34,
+      "title": "How can I overcome obstacles in my career?",
+      "description": "What astrological factors are blocking my career growth, and what remedies can help?",
+      "category": "Career",
+      "keywords": [
+        "career growth",
+        "obstacles",
+        "remedies"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "4-6 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "What is blocking my career growth astrologically?",
+        "What remedies can remove obstacles in my career path?"
+      ],
+      "astrological_focus": "Saturn and 10th House Analysis",
+      "output_format": "Career obstacle analysis with remedies",
+      "additional_notes": "Includes specific remedies like rituals, fasting, and chanting for professional success."
+    },
+    {
+      "id": 35,
+      "title": "Why am I feeling so unlucky lately?",
+      "description": "Are there any planetary positions or doshas affecting my luck?",
+      "category": "General Guidance",
+      "keywords": [
+        "luck",
+        "misfortune",
+        "astrology remedies"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "Why am I experiencing bad luck?",
+        "Are there astrological remedies to improve my luck?"
+      ],
+      "astrological_focus": "Saturn and Rahu Analysis",
+      "output_format": "Luck improvement tips with remedies",
+      "additional_notes": "Focuses on planetary doshas and suggests spiritual remedies for improvement."
+    },
+    {
+      "id": 36,
+      "title": "What do my stars say about my leadership abilities?",
+      "description": "Does my birth chart suggest strong leadership qualities?",
+      "category": "Career",
+      "keywords": [
+        "leadership",
+        "skills",
+        "astrological insights"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "Do I have the traits of a good leader?",
+        "How can I strengthen my leadership abilities using astrology?"
+      ],
+      "astrological_focus": "10th House and Mars Analysis",
+      "output_format": "Leadership traits and strengths",
+      "additional_notes": "Analyzes Mars and Sun positions to assess natural leadership tendencies and skills."
+    },
+    {
+      "id": 37,
+      "title": "Should I reconcile with my ex?",
+      "description": "Do the stars favor reconciliation with my ex-partner, or should I move on?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "reconciliation",
+        "ex-partner",
+        "relationships"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "Does astrology support getting back with my ex?",
+        "What are the chances of a successful reconciliation?"
+      ],
+      "astrological_focus": "Compatibility and Venus Analysis",
+      "output_format": "Probability of reconciliation with remedies",
+      "additional_notes": "Focuses on past compatibility and current planetary influences for decision-making."
+    },
+    {
+      "id": 38,
+      "title": "What kind of person should I marry?",
+      "description": "What does astrology say about the traits and characteristics of my ideal life partner?",
+      "category": "Love & Relationships",
+      "keywords": [
+        "marriage partner",
+        "ideal match",
+        "astrological traits"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "What qualities should I look for in a life partner?",
+        "Does astrology suggest an ideal zodiac sign for my spouse?"
+      ],
+      "astrological_focus": "7th House and Venus Analysis",
+      "output_format": "Traits and compatibility insights",
+      "additional_notes": "Analyzes Venus and the 7th house for relationship potential and ideal characteristics."
+    },
+    {
+      "id": 39,
+      "title": "Will my current business partnership work out?",
+      "description": "What do the stars indicate about the success of my business partnership?",
+      "category": "Career",
+      "keywords": [
+        "business partnership",
+        "success",
+        "compatibility"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "4-6 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Are my business partner and I astrologically compatible?",
+        "What challenges might arise in this partnership?"
+      ],
+      "astrological_focus": "7th House and Mercury Analysis",
+      "output_format": "Compatibility analysis and remedies",
+      "additional_notes": "Examines compatibility between partners using birth charts and planetary placements like Mercury for communication."
+    },
+    {
+      "id": 40,
+      "title": "How can I attract positive energy into my life?",
+      "description": "What changes or remedies can I implement to bring positivity and prosperity?",
+      "category": "General Guidance",
+      "keywords": [
+        "positivity",
+        "energy",
+        "prosperity"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "What astrological tips can improve the energy in my life?",
+        "Are there any rituals or practices to attract positivity?"
+      ],
+      "astrological_focus": "Moon and Jupiter Analysis",
+      "output_format": "Energy improvement tips with remedies",
+      "additional_notes": "Provides simple remedies like rearranging living spaces or performing rituals for positivity."
+    },
+    {
+      "id": 41,
+      "title": "What is the astrological reason for my stress?",
+      "description": "Are there any planetary movements contributing to my stress?",
+      "category": "Health & Wellness",
+      "keywords": [
+        "stress",
+        "mental health",
+        "astrology remedies"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "Why am I feeling so stressed recently?",
+        "What remedies can help me manage my stress astrologically?"
+      ],
+      "astrological_focus": "Moon and Saturn Analysis",
+      "output_format": "Stress management tips with remedies",
+      "additional_notes": "Includes analysis of the Moon for emotional health and Saturn for mental burdens, with suggested remedies."
+    },
+    {
+      "id": 42,
+      "title": "Is my current house lucky for me?",
+      "description": "What does my horoscope say about the energy of my current residence?",
+      "category": "General Guidance",
+      "keywords": [
+        "house energy",
+        "residence",
+        "astrology insights"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-3 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "Is my current home bringing good energy?",
+        "Are there any astrological remedies to improve my home's energy?"
+      ],
+      "astrological_focus": "4th House and Moon Analysis",
+      "output_format": "House energy insights with remedies",
+      "additional_notes": "Focuses on the 4th house to assess home harmony and suggests remedies like Vastu tips."
+    },
+    {
+      "id": 43,
+      "title": "Should I change my job or wait?",
+      "description": "What astrological insights can help me decide whether to switch jobs or stay in my current role?",
+      "category": "Career",
+      "keywords": [
+        "job change",
+        "career decisions",
+        "timing"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "Is this the right time for a career change?",
+        "Should I stay in my current job or switch to a new one?"
+      ],
+      "astrological_focus": "10th House and Saturn Analysis",
+      "output_format": "Career decision insights",
+      "additional_notes": "Analyzes planetary positions influencing professional growth and job satisfaction."
+    },
+    {
+      "id": 44,
+      "title": "How can I protect myself from bad vibes?",
+      "description": "Are there astrological remedies to shield me from negativity?",
+      "category": "Spiritual Guidance",
+      "keywords": [
+        "negativity",
+        "protection",
+        "energy shielding"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-4 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "What can I do to avoid negative energies around me?",
+        "Are there rituals or practices to improve my protection?"
+      ],
+      "astrological_focus": "Rahu and Ketu Analysis",
+      "output_format": "Protection tips with remedies",
+      "additional_notes": "Includes suggestions like wearing amulets or chanting protective mantras for shielding from negativity."
+    },
+    {
+      "id": 45,
+      "title": "Why am I facing delays in achieving my goals?",
+      "description": "What planetary influences are causing delays, and how can I overcome them?",
+      "category": "General Guidance",
+      "keywords": [
+        "delays",
+        "goals",
+        "remedies"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "What is causing the delays in my career or personal goals?",
+        "Are there remedies to overcome these setbacks?"
+      ],
+      "astrological_focus": "Saturn and Rahu Analysis",
+      "output_format": "Delay causes and remedies",
+      "additional_notes": "Focuses on planetary aspects causing obstacles, especially Saturn’s influence on patience and Rahu's role in creating illusions."
+    },
+    {
+      "id": 46,
+      "title": "Will my next venture be successful?",
+      "description": "Does my horoscope indicate success for the new venture I’m planning?",
+      "category": "Career",
+      "keywords": [
+        "venture success",
+        "career growth",
+        "business"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-6 minutes",
+      "remedies_included": false,
+      "priority": "High",
+      "example_questions": [
+        "Should I proceed with my new business idea?",
+        "What are the chances of success for my next venture?"
+      ],
+      "astrological_focus": "10th House and Jupiter Analysis",
+      "output_format": "Success likelihood with timeline",
+      "additional_notes": "Analyzes Jupiter for growth and success and Mars for courage and execution, providing a timeline for favorable results."
+    },
+    {
+      "id": 47,
+      "title": "How can I improve my financial stability?",
+      "description": "What astrological remedies or insights can help me achieve better financial stability?",
+      "category": "Finance",
+      "keywords": [
+        "financial stability",
+        "money",
+        "wealth remedies"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "How can I overcome financial struggles?",
+        "What astrological remedies can improve my income and savings?"
+      ],
+      "astrological_focus": "2nd and 11th Houses Analysis",
+      "output_format": "Financial tips with remedies",
+      "additional_notes": "Focuses on the 2nd house (income) and 11th house (gains) with remedies like chanting mantras or adjusting spending habits."
+    },
+    {
+      "id": 48,
+      "title": "How can I enhance my spiritual growth?",
+      "description": "What astrological practices can help me deepen my spiritual connection?",
+      "category": "Spiritual Guidance",
+      "keywords": [
+        "spiritual growth",
+        "meditation",
+        "karma"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "What practices should I follow for spiritual enlightenment?",
+        "Are there astrological remedies to enhance my spiritual journey?"
+      ],
+      "astrological_focus": "12th House and Ketu Analysis",
+      "output_format": "Spiritual practices and remedies",
+      "additional_notes": "Includes guidance for meditation, fasting, and introspection based on the 12th house and Ketu’s influence."
+    },
+    {
+      "id": 49,
+      "title": "What are my lucky numbers and colors?",
+      "description": "What do my stars say about my lucky numbers and colors?",
+      "category": "General Guidance",
+      "keywords": [
+        "lucky numbers",
+        "colors",
+        "daily luck"
+      ],
+      "difficulty_level": "Beginner",
+      "estimated_time": "2-3 minutes",
+      "remedies_included": false,
+      "priority": "Medium",
+      "example_questions": [
+        "What are my lucky numbers for this month?",
+        "Which colors should I wear for positive energy?"
+      ],
+      "astrological_focus": "Zodiac and Ruling Planet Analysis",
+      "output_format": "Lucky numbers and colors",
+      "additional_notes": "Provides a list of numbers and colors based on ruling planets and zodiac sign characteristics."
+    },
+    {
+      "id": 50,
+      "title": "What do my dreams mean astrologically?",
+      "description": "Can astrology help interpret the meaning of my recurring dreams?",
+      "category": "Spiritual Guidance",
+      "keywords": [
+        "dreams",
+        "interpretation",
+        "astrology"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": false,
+      "priority": "Low",
+      "example_questions": [
+        "What does dreaming about water signify astrologically?",
+        "Do recurring dreams have any astrological significance?"
+      ],
+      "astrological_focus": "Moon and 12th House Analysis",
+      "output_format": "Dream interpretation",
+      "additional_notes": "Analyzes dreams in relation to Moon phases and the 12th house for deeper subconscious meanings."
+    },
+    {
+      "id": 51,
+      "title": "What are the best times for me to travel?",
+      "description": "What does astrology suggest about the most favorable times for travel?",
+      "category": "Travel",
+      "keywords": [
+        "travel timing",
+        "astrology for trips",
+        "adventure"
+      ],
+      "difficulty_level": "Intermediate",
+      "estimated_time": "3-5 minutes",
+      "remedies_included": true,
+      "priority": "Medium",
+      "example_questions": [
+        "When should I plan my next vacation?",
+        "What are the astrological periods favoring travel for me?"
+      ],
+      "astrological_focus": "9th House and Planetary Transits",
+      "output_format": "Travel timing and remedies",
+      "additional_notes": "Analyzes favorable planetary alignments for smooth and safe travel experiences."
+    },
+    {
+      "id": 52,
+      "title": "Will I have a good year ahead?",
+      "description": "What does my horoscope say about the opportunities and challenges for the upcoming year?",
+      "category": "Yearly Forecast",
+      "keywords": [
+        "yearly horoscope",
+        "opportunities",
+        "challenges"
+      ],
+      "difficulty_level": "Advanced",
+      "estimated_time": "5-7 minutes",
+      "remedies_included": true,
+      "priority": "High",
+      "example_questions": [
+        "What are the key events I can expect in the coming year?",
+        "Are there any challenges I should prepare for astrologically?"
+      ],
+      "astrological_focus": "Transit Analysis",
+      "output_format": "Yearly forecast with remedies",
+      "additional_notes": "Provides a comprehensive overview of planetary transits for the next 12 months, highlighting key opportunities and challenges."
+    }
+  ]
+}

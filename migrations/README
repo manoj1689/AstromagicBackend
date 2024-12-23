@@ -1,0 +1,8 @@
+Generic single-database configuration.
+
+
+
+
+Run this script :--
+uvicorn main:app --reload
+
